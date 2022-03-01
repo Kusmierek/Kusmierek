@@ -12,3 +12,6 @@ I'm Oskar Kuśmierek from Poland, I'm a first-year student of Computer science a
 
 - 🖥 Javascript
 - ⚛ React
+
+### Projects
+-🎥 [Youtube](https://github.com/Kusmierek/Youtube)
