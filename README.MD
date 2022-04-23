@@ -15,3 +15,4 @@ I'm Oskar Kuśmierek from Poland, I'm a first-year student of Computer science a
 
 ### Projects
 -🎥 [Youtube](https://github.com/Kusmierek/Youtube)
+-✅ [To-do List] (https://github.com/Kusmierek/todoo-list)
