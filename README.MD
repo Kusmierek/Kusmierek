@@ -14,5 +14,5 @@ I'm Oskar Kuśmierek from Poland, I'm a first-year student of Computer science a
 - ⚛ React
 
 ### Projects
--🎥 [Youtube](https://github.com/Kusmierek/Youtube)
--✅ [To-do List] (https://github.com/Kusmierek/todoo-list)
+- 🎥 [Youtube](https://github.com/Kusmierek/Youtube)
+- ✅ [To-do List](https://github.com/Kusmierek/todoo-list)
