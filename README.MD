@@ -12,9 +12,6 @@
 - 🌱 I’m currently learning Next.js   
   
 
-- ⚡ Fun fact: I'm a dog lover 🐶🐕  
-  
-
 <br/>  
 
 
