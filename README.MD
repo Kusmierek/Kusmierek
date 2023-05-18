@@ -6,7 +6,7 @@
 ### <div align="center">I'm Oskar, a second year student of Computer science at the University of Gdansk 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on ...  
+- 🔭 I’m currently working on Pokemon App
   
 
 - 🌱 I’m currently learning Next.js   
